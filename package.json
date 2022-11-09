@@ -1,5 +1,5 @@
 {
-    "name": "lib-boilerplate",
+    "name": "br-goods-commons-lib",
     "version": "1.0.0",
     "description": "",
     "main": "./lib/index.js",
